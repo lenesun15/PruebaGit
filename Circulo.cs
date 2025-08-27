@@ -8,5 +8,7 @@ namespace PruebaGit
 {
     internal class Circulo
     {
+        private int X;
+        private int y;
     }
 }
